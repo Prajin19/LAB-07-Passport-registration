@@ -20,7 +20,32 @@ In this module the user can cancel their tickets.
 Star UML
 ### HARDWARE REQUIRMENTS:
 1. 512MB RAM2. Pentium III Processor
+### UML Diagrams:
+#### Use Case Diagram
+![Screenshot 2024-10-23 025828](https://github.com/user-attachments/assets/cbb77061-da96-4e98-9098-4768cd439f80)
 
+#### Class Diagram
+![Screenshot 2024-10-23 025910](https://github.com/user-attachments/assets/a78b4de6-98e9-4a9d-b06b-6d32ab4f15af)
+
+
+#### Sequence Diagram
+![Screenshot 2024-10-23 025946](https://github.com/user-attachments/assets/861923d5-b287-4ea7-92e9-c4d884191e4c)
+
+
+#### Activity Diagram
+![Screenshot 2024-10-23 030019](https://github.com/user-attachments/assets/39c83d37-58d0-4168-a3eb-14f20cadd050)
+
+
+#### Package Diagram
+![Screenshot 2024-10-23 030118](https://github.com/user-attachments/assets/33d8370c-f197-415b-90b3-87c7f2ef0c51)
+
+
+#### Communication Diagram
+![Screenshot 2024-10-23 030208](https://github.com/user-attachments/assets/410d99d9-f21c-4786-8571-36f902f97220)
+
+
+##### Created by : Prajin S
+##### Register Number : 212223230151
 
 
 
